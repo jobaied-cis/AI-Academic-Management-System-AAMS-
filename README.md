@@ -1,7 +1,5 @@
-# 🎓 AI Academic Management System (AAMS)
-
-A full-stack web application built to manage academic activities efficiently for students, teachers, and administrators.
-
+<h1 align="center">🎓 AI Academic Management System (AAMS)</h1>
+<p align="center">A full-stack web application built to manage academic activities efficiently for students, teachers, and administrators.</p>
 
 ## 🚀 Overview
 
